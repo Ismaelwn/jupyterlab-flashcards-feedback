@@ -1,0 +1,16 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.3.8
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: isma91sn@gmail.com
+author_name: Ismaelwn
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: jupyterlab-flashcards-feedback
+project_short_description: A JupyterLab extension that enables users to send feedback
+    related to their use of flashcards, allowing teachers to receive direct insights
+    about their educational tool.
+python_name: jupyterlab_flashcards_feedback
+repository: https://github.com/Ismaelwn/jupyterlab-flashcards-feedback
+test: false
+
